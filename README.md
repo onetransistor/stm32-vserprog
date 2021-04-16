@@ -60,7 +60,7 @@
   Simply type (change the board name accordingly, for details see the header of the `Makefile` or just type `make`):
 
    ```bash
-   git clone --recurse-submodules https://github.com/dword1511/stm32-vserprog.git
+   git clone --recurse-submodules https://github.com/onetransistor/stm32-vserprog.git
    make BOARD=stm32-vserprog-v2
    ```
 1. Program.
