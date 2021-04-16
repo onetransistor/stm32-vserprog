@@ -4,5 +4,5 @@
 	branch = master
 [submodule "flashrom"]
 	path = flashrom
-	url = https://www.flashrom.org/git/flashrom.git
+	url = ssh://review.coreboot.org:29418/flashrom
 	branch = staging
